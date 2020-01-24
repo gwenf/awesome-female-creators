@@ -1,2 +1,3 @@
-# awesome-female-creators
-Female online tutorial and course creators!
+# Awesome Female Creators
+
+A list of amazing female online tutorial and course creators!
