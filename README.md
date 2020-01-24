@@ -19,7 +19,7 @@ A list of amazing female online tutorial and course creators!
 
 * [YouTube](https://www.youtube.com/user/suziam)
 * [Twitter](https://twitter.com/noopkat)
-* General Software Topics, IoT, Hacking, Livestreams
+* IoT, Hardware, Open Source, Hacking, Livestreams
 
 ### Blondiebytes
 
