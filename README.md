@@ -39,26 +39,37 @@ A list of amazing female online tutorial and course creators!
 * [Articles](https://welearncode.com/)
 * [Twitter](https://twitter.com/ASpittel)
 
-### Ali Spittel
-
-* [Tutorials](http://www.codingcommanders.com/)
-* [Twitter](https://twitter.com/codingCommander)
-
 ### Coding Commanders
 
 * [Tutorials](http://www.codingcommanders.com/)
 * [YouTube](https://www.youtube.com/codingcommanders)
 * [Twitter](https://twitter.com/codingCommander)
 
+### Charlie Gerard
+
+* [Tutorials](https://medium.com/@devdevcharlie)
+* [YouTube](https://www.youtube.com/user/annechag)
+* [Twitter](https://twitter.com/devdevcharlie)
+
+### Lea Verou
+
+* [Tutorials](http://lea.verou.me/)
+* [Twitter](https://twitter.com/LeaVerou)
+
+### Ana Tudor
+
+* [YouTube](https://www.youtube.com/channel/UCUxkTxO8NivVeGKJk1QnzWQ)
+* [Articles](https://css-tricks.com/author/thebabydino/)
+* [Twitter](https://twitter.com/anatudor)
+
+
+
 
 Working on formatting the following list of awesome ladies:
 
 Coding is for girls!
 
-https://twitter.com/devdevcharlie
-https://twitter.com/LeaVerou
-https://twitter.com/AmeliasBrain
-https://twitter.com/anatudor
+
 https://twitter.com/samantha_ming (amazing tidbits: https://www.samanthaming.com/tidbits)
 https://twitter.com/SaraSoueidan
 https://twitter.com/sarah_edo
