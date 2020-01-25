@@ -27,19 +27,39 @@ A list of amazing female online tutorial and course creators!
 * [Twitter](https://twitter.com/blondiebytes)
 * General Software Topics, Python
 
+### Natalia Tepluhina
+
+* [Articles](https://www.nataliatepluhina.com/articles)
+* [Videos](https://www.nataliatepluhina.com/videos/)
+* [Twitter](https://twitter.com/N_Tepluhina)
+
+### Ali Spittel
+
+* [Podcast](https://www.ladybug.dev/)
+* [Articles](https://welearncode.com/)
+* [Twitter](https://twitter.com/ASpittel)
+
+### Ali Spittel
+
+* [Tutorials](http://www.codingcommanders.com/)
+* [Twitter](https://twitter.com/codingCommander)
+
+### Coding Commanders
+
+* [Tutorials](http://www.codingcommanders.com/)
+* [YouTube](https://www.youtube.com/codingcommanders)
+* [Twitter](https://twitter.com/codingCommander)
+
 
 Working on formatting the following list of awesome ladies:
 
 Coding is for girls!
 
-https://twitter.com/N_Tepluhina (Vue)
-https://twitter.com/ASpittel
-https://twitter.com/codingCommander
 https://twitter.com/devdevcharlie
 https://twitter.com/LeaVerou
 https://twitter.com/AmeliasBrain
 https://twitter.com/anatudor
-https://twitter.com/samantha_ming (amazin tidbits: https://www.samanthaming.com/tidbits)
+https://twitter.com/samantha_ming (amazing tidbits: https://www.samanthaming.com/tidbits)
 https://twitter.com/SaraSoueidan
 https://twitter.com/sarah_edo
 https://twitter.com/sxywu (livecode)
