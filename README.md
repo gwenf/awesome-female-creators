@@ -62,6 +62,23 @@ A list of amazing female online tutorial and course creators!
 * [Articles](https://css-tricks.com/author/thebabydino/)
 * [Twitter](https://twitter.com/anatudor)
 
+### Samantha Ming
+
+* [Articles & Courses](https://www.samanthaming.com/)
+* [Tidbits](https://www.samanthaming.com/tidbits)
+* [Twitter](https://twitter.com/samantha_ming)
+
+### Sara Soueidan
+
+* [Articles](https://www.sarasoueidan.com/blog/)
+* [Twitter](https://twitter.com/SaraSoueidan)
+
+### Sarah Drasner
+
+* [Articles](https://sarah.dev/writing)
+* [Twitter](https://twitter.com/sarah_edo)
+* Topics: Vue.js, CSS, SVG, Web Animations
+
 
 
 
@@ -69,10 +86,6 @@ Working on formatting the following list of awesome ladies:
 
 Coding is for girls!
 
-
-https://twitter.com/samantha_ming (amazing tidbits: https://www.samanthaming.com/tidbits)
-https://twitter.com/SaraSoueidan
-https://twitter.com/sarah_edo
 https://twitter.com/sxywu (livecode)
 https://twitter.com/marcysutton
 https://twitter.com/vaidehijoshi
