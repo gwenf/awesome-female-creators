@@ -2,9 +2,16 @@
   <div id="app">
     <i-container>
       <i-row>
-        <i-column sm="8" offset-sm="2" class="_display-flex _justify-content-space-around _flex-wrap">
-          <i-row>
-            <i-input v-model="searchValue" placeholder="Type something.." clearable />
+        <h3>Awesome Female Content Creators</h3>
+      </i-row>
+      <i-row around>
+        <i-column sm="8" offset-sm="2">
+          <i-row class="_margin-x-auto">
+            <i-input
+              v-model="searchValue"
+              placeholder="Search"
+              clearable
+            />
           </i-row>
           <i-row>
             <InfoCard
@@ -20,6 +27,7 @@
 </template>
 
 <script>
+// Color Palette: F5E4C3 - FAF4D0 - FAF4D0 - EA4C4C - C14545
 import InfoCard from "./components/InfoCard.vue"
 import creators from "./creators"
 

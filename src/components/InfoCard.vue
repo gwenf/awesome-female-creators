@@ -1,6 +1,5 @@
 <template>
-  <i-card style="width: 300px">
-    <img slot="image" src="" alt="Card Image" />
+  <i-card style="width: 300px" class="_margin-1">
     <h4 class="title">{{ creator.name }}</h4>
     <a
       class="link"
