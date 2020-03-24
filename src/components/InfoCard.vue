@@ -5,6 +5,7 @@
       class="link"
       v-if="creator.youtube"
       :href="creator.youtube"
+      target="_blank"
     >
       YouTube
     </a>
@@ -12,6 +13,7 @@
       class="link"
       v-if="creator.twitter"
       :href="creator.twitter"
+      target="_blank"
     >
       Twitter
     </a>
