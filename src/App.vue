@@ -28,7 +28,7 @@ import { ModelSelect } from "vue-search-select"
 // Color Palette: F5E4C3 - FAF4D0 - FAF4D0 - EA4C4C - C14545
 import InfoCard from "./components/InfoCard.vue"
 import Search from "./components/Search.vue"
-import creators from "./creators"
+import creators from "./data/creators"
 
 export default {
   name: "App",
