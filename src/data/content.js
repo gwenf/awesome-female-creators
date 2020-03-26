@@ -1,1 +1,0 @@
-["JavaScript","Python","AWS","Livestreams","IoT","Hardware","Open Source","Hacking","Cloud","Serverless"]

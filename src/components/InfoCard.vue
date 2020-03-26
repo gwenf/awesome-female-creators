@@ -31,10 +31,7 @@
         </a>
       </i-row>
 
-      <i-row
-        class="content-list _margin-top-1"
-        start
-      >
+      <i-row class="content-list _margin-top-1" start>
         <i-badge
           variant="primary"
           v-for="(content, i) in creator.content"
