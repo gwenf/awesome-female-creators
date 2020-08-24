@@ -79,7 +79,9 @@ A list of amazing female online tutorial and course creators!
 * [Twitter](https://twitter.com/sarah_edo)
 * Topics: Vue.js, CSS, SVG, Web Animations
 
+### Monica
 
+* [Twitter](https://twitter.com/waterproofheart)
 
 
 Working on formatting the following list of awesome ladies:
