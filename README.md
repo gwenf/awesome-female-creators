@@ -83,6 +83,10 @@ A list of amazing female online tutorial and course creators!
 
 * [Twitter](https://twitter.com/waterproofheart)
 
+### Miss Xing
+
+- [YouTube](https://www.youtube.com/channel/UCZx_JAchE3N3sWfEiUGiDwg/videos)
+
 
 Working on formatting the following list of awesome ladies:
 
