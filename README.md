@@ -87,21 +87,57 @@ A list of amazing female online tutorial and course creators!
 
 - [YouTube](https://www.youtube.com/channel/UCZx_JAchE3N3sWfEiUGiDwg/videos)
 
+### Marcy Sutton
 
-Working on formatting the following list of awesome ladies:
+- [Twitter](https://twitter.com/marcysutton)
+
+### Shirley Wu
+
+- [Twitter](https://twitter.com/sxywu)
+- Livecoding
+
+### Vaidehi Joshi
+
+- [Twitter](https://twitter.com/vaidehijoshi)
+
+### Margaret
+
+- [Twitter](https://twitter.com/margaretmz)
+- Topics: ML, Android
+
+### Julia Evans
+
+- [Twitter](https://twitter.com/b0rk)
+
+### Leomaris Reyes
+
+- [Twitter](https://twitter.com/LeomarisReyes11)
+
+### April Speight
+
+- [Twitter](https://twitter.com/vogueandcode)
+- [YouTube](https://www.youtube.com/channel/UCllcDvT0AkqKH7mgRhoeKdg/videos)
+
+### EvidenceN
+
+- [Twitter](https://twitter.com/EvidenceNMedia)
+- [YouTube](https://www.youtube.com/EvidenceN)
+- [Blog](https://evidencen.com/blog/)
+- Topics: Data Science
+
+### Marina Mosti
+
+- [Twitter](https://twitter.com/MarinaMosti)
+- [Blog](https://dev.to/marinamosti)
+- Topics: JavaScript, Vue.js
+
+### Jen Simmons
+
+- [Twitter](https://twitter.com/jensimmons)
+
+### Tania
+
+- [Twitter](https://twitter.com/taniarascia)
+- [Blog](https://tania.dev/)
 
 Coding is for girls!
-
-https://twitter.com/sxywu (livecode)
-https://twitter.com/marcysutton
-https://twitter.com/vaidehijoshi
-https://www.youtube.com/channel/UCB8Onokbo55tedGR4Ctjgsw
-https://twitter.com/margaretmz
-https://twitter.com/b0rk
-https://twitter.com/LeomarisReyes11
-https://twitter.com/vogueandcode (https://www.youtube.com/channel/UCllcDvT0AkqKH7mgRhoeKdg/videos)
-https://twitter.com/EvidenceNMedia (https://www.youtube.com/EvidenceN)
-https://twitter.com/MarinaMosti
-https://twitter.com/MiriSuzanne
-https://twitter.com/jensimmons
-https://twitter.com/taniarascia
