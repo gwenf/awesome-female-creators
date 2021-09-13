@@ -33,6 +33,11 @@ A list of amazing female online tutorial and course creators!
 * [Videos](https://www.nataliatepluhina.com/videos/)
 * [Twitter](https://twitter.com/N_Tepluhina)
 
+### Ijemma Onwuzulike
+
+- [Twitter](https://twitter.com/ijemmaohno)
+- [YouTube](https://www.youtube.com/c/IjemmaOnwuzulike)
+
 ### Ali Spittel
 
 * [Podcast](https://www.ladybug.dev/)
